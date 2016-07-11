@@ -1,0 +1,23 @@
+{
+  "name": "gui-administrator-frontend",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Tesei Franco"
+  ],
+  "license": "ISC",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/assets/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.7",
+    "bootstrap": "^3.3.6",
+    "angular-ui-router": "^0.3.1"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "gui-administrator-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "bower": "bower"
+  },
+  "author": "Tesei Franco",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-jshint": "*",
+    "jshint": "*",
+    "gulp": "*",
+    "gulp-connect": "*",
+    "gulp-json-srv": "*",
+    "gulp-minify-css": "*",
+    "gulp-minify-html": "*",
+    "gulp-notify": "*",
+    "gulp-uglify": "*",
+    "jshint-stylish": "*"
+  }
+
+}
