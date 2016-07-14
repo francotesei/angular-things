@@ -1,0 +1,15 @@
+{
+  "name": "restapi-seed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js"
+  },
+  "author": "Tesei Franco",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "morgan": "^1.7.0",
+    "restify": "^4.1.1"
+  }
+}
